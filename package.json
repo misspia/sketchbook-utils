@@ -1,0 +1,24 @@
+{
+  "name": "sketchbook-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misspia/sketchbook-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misspia/sketchbook-utils/issues"
+  },
+  "homepage": "https://github.com/misspia/sketchbook-utils#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "styled-components": "^5.3.5",
+    "webpack": "^5.73.0"
+  }
+}
